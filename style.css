@@ -1,0 +1,33 @@
+.cap{
+    color: aqua;
+}
+
+
+.navigation{
+    margin: 20px;0;
+}
+
+.important{
+    margin: 50px;0;
+}
+
+.important h1{
+    color: red;
+}
+
+.important p{
+    font-style: italic;
+}
+
+.plan{
+    font-size: 16pt;
+
+}
+
+.plan_two{
+    margin: 10px;0;
+}
+
+.plan_three{
+    font-weight: bolder;
+}
